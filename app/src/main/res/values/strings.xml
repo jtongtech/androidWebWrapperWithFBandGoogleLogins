@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook_Google_Signin_Template</string>
+    <string name="facebook_app_id">Your_FB_app_ID_goes_here</string>
+    <string name="fb_login_protocol_scheme">Your_FB_login_protocol_scheme_goes_here</string>
+    <string name="signed_in_fmt">string</string>
+    <string name="status">Status</string>
+    <string name="buttonText">Sign in with Google</string>
+    <string name="default_web_client_id" />
+</resources>
