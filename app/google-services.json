@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699402612954",
+    "firebase_url": "https://facebooksignintemplate.firebaseio.com",
+    "project_id": "facebooksignintemplate",
+    "storage_bucket": "facebooksignintemplate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699402612954:android:65744209b54c5252",
+        "android_client_info": {
+          "package_name": "auth.quickstart.firebase.google.com.facebook_google_signin_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699402612954-utvmtoashgpmllp9e9vck8pkq3hic6pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "auth.quickstart.firebase.google.com.facebook_google_signin_template",
+            "certificate_hash": "e4e42f2599364ca185bde48d8b70fd7404cd68fe"
+          }
+        },
+        {
+          "client_id": "699402612954-91mi5948jqu98rr7ongcjcuu5q1pf39k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNb518MCiAvbSMMb2dIYkkdP6IPnNgnuM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699402612954-91mi5948jqu98rr7ongcjcuu5q1pf39k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
